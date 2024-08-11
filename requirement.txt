@@ -2,3 +2,4 @@ requests
 numpy
 pandas
 bs4
+gunicorn
